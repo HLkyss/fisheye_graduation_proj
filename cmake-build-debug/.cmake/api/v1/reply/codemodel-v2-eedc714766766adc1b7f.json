@@ -1,0 +1,87 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "2.8"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "fisheye_project",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "BA::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-BA-Debug-73c0a0c1bc16d86c05c8.json",
+					"name" : "BA",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "BA_test_real::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-BA_test_real-Debug-11184ea1cb0cb22f979e.json",
+					"name" : "BA_test_real",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_ue::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_ue-Debug-412736a1250e3109a174.json",
+					"name" : "all_ue",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "disparity_real::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-disparity_real-Debug-40bd3b08363f14ecf276.json",
+					"name" : "disparity_real",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/hl/project/fisheye_project_graduation/fisheye_proj_2/cmake-build-debug",
+		"source" : "/home/hl/project/fisheye_project_graduation/fisheye_proj_2"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}
